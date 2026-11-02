@@ -1,0 +1,5 @@
+interface:
+  display_name: "Feature Development Loop"
+  short_description: "Plan, verify, and resume feature-sized delivery batches"
+policy:
+  allow_implicit_invocation: true

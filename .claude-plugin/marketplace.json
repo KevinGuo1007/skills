@@ -1,0 +1,14 @@
+{
+  "name": "kevinguo",
+  "description": "Kevin Guo's personal agent skills, grouped by purpose.",
+  "owner": {
+    "name": "Kevin Guo"
+  },
+  "plugins": [
+    {
+      "name": "kevinguo-skills",
+      "source": "./",
+      "description": "Personal agent skills grouped by purpose."
+    }
+  ]
+}

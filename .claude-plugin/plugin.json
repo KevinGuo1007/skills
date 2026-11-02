@@ -1,0 +1,12 @@
+{
+  "name": "kevinguo-skills",
+  "version": "0.1.0",
+  "description": "Personal agent skills grouped by purpose, including a resumable feature development loop.",
+  "author": {
+    "name": "Kevin Guo"
+  },
+  "repository": "https://github.com/KevinGuo1007/skills",
+  "skills": [
+    "./skills/engineering/feature-development-loop"
+  ]
+}
